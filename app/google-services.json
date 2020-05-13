@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1039197616728",
+    "firebase_url": "https://officeadmin-9f9be.firebaseio.com",
+    "project_id": "officeadmin-9f9be",
+    "storage_bucket": "officeadmin-9f9be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1039197616728:android:344ee67c67407e1873e82d",
+        "android_client_info": {
+          "package_name": "com.manojith.officeadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1039197616728-hstpilgi035n2u9cbhodktn4tftujcu7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.manojith.officeadmin",
+            "certificate_hash": "09b5f546d2dd8dcceb4ab678ead7a58c33fda053"
+          }
+        },
+        {
+          "client_id": "1039197616728-kpr1alajb22aanofasg3gh22ltlrstef.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaYhOJqHiZsQyqr8qPFjA7loh5sf3oWwA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1039197616728-kpr1alajb22aanofasg3gh22ltlrstef.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
